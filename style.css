@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Readex Pro', sans-serif;
+  }
+
+  .intro {
+    height: 100vh;
+    width: 100vw;
+    object-fit: scale-down;
+  }
+
+  section {
+    height: 100vh;
+    width: 100vw;
+  }
+
+  #lottie {
+    height: 100%;
+  }
+
+  video {
+    width: 100vw;
+  }
+
+  .body {
+      padding: 3em;
+      background-color: black;
+  }
+
+  .body h1 {
+      font-size: 5rem;
+      color: white;
+      text-align: center;
+      padding-top: 250px;
+  }
